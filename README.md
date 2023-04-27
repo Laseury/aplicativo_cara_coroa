@@ -1,2 +1,2 @@
-# aplicativo_cara_coroa
- Aplicativo de jogar uma moeda
+# Aplicativo cara ou coroa
+ Projeto de um aplicativo em flutter.
